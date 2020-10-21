@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AlertDialog" />
+            <option value="$PROJECT_DIR$/AutoComplete" />
+            <option value="$PROJECT_DIR$/MenuActionBarExample" />
+            <option value="$PROJECT_DIR$/MenusExample" />
+            <option value="$PROJECT_DIR$/PassDataActivity" />
+            <option value="$PROJECT_DIR$/ScreenLayoutDetect" />
+            <option value="$PROJECT_DIR$/SimpleDataBinding" />
+            <option value="$PROJECT_DIR$/SimpleFragmentsExample" />
+            <option value="$PROJECT_DIR$/SimpleIntent" />
+            <option value="$PROJECT_DIR$/SimpleLayoutManagers" />
+            <option value="$PROJECT_DIR$/SimpleView1" />
+            <option value="$PROJECT_DIR$/StyleExample" />
+            <option value="$PROJECT_DIR$/UsingSimpleResources" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/constraintlayout" />
+            <option value="$PROJECT_DIR$/recyclerview" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

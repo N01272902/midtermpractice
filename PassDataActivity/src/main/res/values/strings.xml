@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PassDataActivity</string>
+    <string name="pass_array_to_2nd_activity">Pass array to 2nd Activity</string>
+</resources>
